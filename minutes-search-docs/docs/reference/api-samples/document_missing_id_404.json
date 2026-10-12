@@ -1,0 +1,9 @@
+{
+  "request": {
+    "path": "/documents/136608"
+  },
+  "status": 404,
+  "body": {
+    "detail": "Document not found"
+  }
+}

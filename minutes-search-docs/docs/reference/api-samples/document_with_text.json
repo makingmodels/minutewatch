@@ -1,0 +1,25 @@
+{
+  "request": {
+    "path": "/documents/674886",
+    "params": {
+      "include_text": "true"
+    }
+  },
+  "status": 200,
+  "body": {
+    "id": 674886,
+    "source_type": "Meeting",
+    "source_id": 58403,
+    "url": "https://moderngov.middlesbrough.gov.uk/documents/g10285/Printed+minutes+09th-Jun-2025+10.00+Executive+Member+Adult+Social+Care.pdf?T=1",
+    "kind": "unclassified",
+    "extract_status": "success",
+    "processing_status": "waiting",
+    "contains_agenda": false,
+    "contains_attendees": false,
+    "contains_decisions": false,
+    "is_minutes": false,
+    "is_media": false,
+    "created_at": "2025-06-27T16:56:54.628749",
+    "text": "Executive Member Adult Social Care                                                         09 June 2025\n\nEXECUTIVE MEMBER ADULT SOCIAL CARE\n\n\nA meeting of the Executive Member Adult Social Care was held on Monday 9 June 2025.\n\n\nPRESENT:               Councillors J Rostron (Chair),\n\n\n\nPRESENT BY             Councillors\nINVITATION:\n\nALSO IN\nATTENDANCE:\n\n\nOFFICERS:              L Grabham and C Lunn\n\nAPOLOGIES FOR          Councillors\nABSENCE:\n\n25/1         DECLARATIONS OF INTEREST\n\n\nThere were no declarations of interest received at this point in the meeting.\n\n25/2         LETTING AFFORDABLE HOUSING - POLICY UPDATE\n\nThe Executive Member for Adult Social Care considered a report regarding the Letting\nAffordable Housing - Policy Update.\n\n\nThe purpose of the report was to provide context and outline the proposed changes to the\nCommon Allocation Policy (CAP), a copy of which was shown at Appendix 1 of the report.\n\nThe proposal supported the ambitions of \u2018A Successful and Ambitious Town\u2019 by ensuring that\nthe allocation of social housing met the demand of those in housing need.\n\n\nDue to rising demand for social/affordable rented housing, it was essential that the CAP\nremained relevant, adhered to national policy and, vitally, met Middlesbrough\u2019s local housing\nneeds. The Partnership had recently undertaken a review of the current CAP to ensure it had\na policy that was fair, clear and helped those who needed social/affordable housing most.\nThe review was informed by consultation with applicants registered on Tees Valley Home\nFinder, key partners and stakeholders.\n\n\nMiddlesbrough Council was a member of the Tees Valley Lettings Partnership and collectively\noperated a CAP, housing register and digital lettings platform \u2013 Tees Valley Home Finder.\nTees Valley Home Finder was an online web portal allowing those seeking accommodation in\nthe partner boroughs to register and \u2018bid\u2019 for housing.      The two Registered Provider\nPartnership members, Beyond Housing and North Star, advertised/let their properties through\nthis route. A further 12 Registered Providers were signatories to a Nomination Agreement.\nThese Registered Providers advertised/let a minimum of 50% of their vacant rented properties\n\nvia the Tees Valley Home Finder platform.\n\nThere was high demand for social/affordable rented housing and availability did not match this\ndemand. This was the reason a review of the policy had been undertaken, with the aim of\nmaximising the Council\u2019s ability to best address local and prioritised housing need:\n\nHousing Register\n\n\nThe number of applicants on the Housing register for Middlesbrough at the end of Quarter\nFour 2024/25 was 2878.\n\nAverage Number of Properties Advertised as Available for Letting\n\nWhilst the weekly number of properties did fluctuate, between April 2024 to the end of Quarter\n\nFour 2024-25, the average number of advertised properties per week was 14 in\n09 June 2025\n\nMiddlesbrough.\n\nIn addition to the issues of demand, the policy review took place to also ensure that the\nCouncil was in a good position to assist those in the greatest housing need and reflect on\ncustomer feedback. It also gave the opportunity to address another driver for the review of\n\nthe CAP, which was to ensure compliance regarding changes in national policy, including the\nGovernment\u2019s commitment to ensure appropriate priority and support was given to Armed\nForces Communities including veterans, those who were young care leavers, and those who\nhad experienced domestic abuse.\n\nRepresentatives of the Tees Valley Lettings Partnership undertook a review and identified\n\nseveral potential changes which the consultation exercise subsequently sought views on.\nPages 17-30 of the CAP Consultation Report (Appendix 2) detailed the consultation questions\nasked, and sought views on 12 proposed changes (Appendix 1).\n\nThe consultation exercise for the proposed changes ran for six weeks between 7 October\n2024 - 18 November 2024. In total, 682 consultation responses were received.  \u2026[truncated for fixture]"
+  }
+}

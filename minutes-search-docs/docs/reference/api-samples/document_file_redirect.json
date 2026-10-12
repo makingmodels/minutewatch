@@ -1,0 +1,7 @@
+{
+  "request": {
+    "path": "/documents/674886/file"
+  },
+  "status": 302,
+  "location": "https://lon1.digitaloceanspaces.com/poteris-scraped-council-minutes/6luofrb6lnmjtf9hbajmfn6o7v8r?response-content-disposition=inline%3B%20filename%3D%22document.pdf%22&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO801MJ4CMGHRPHRJ3A7%2F20261011%2Flon1%2Fs3%2Faws4_request&X-Amz-Date=20261011T212348Z&X-Amz-Expires=600&X-Amz-SignedHeaders=host&X-Amz-Signature=1b7923a211be7ff8172ca7df7d14fa7d386787643e35956869e2a1d6d7f56ad9"
+}

@@ -1,0 +1,16 @@
+{
+  "request": {
+    "path": "/search",
+    "params": {
+      "q": "library closure",
+      "mode": "classification",
+      "size": 2
+    }
+  },
+  "status": 200,
+  "body": {
+    "total": 0,
+    "mode": "classification",
+    "hits": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "request": {
+    "path": "/search",
+    "params": {
+      "q": "library closure",
+      "size": 2
+    }
+  },
+  "status": 200,
+  "body": {
+    "total": 906,
+    "mode": "document",
+    "hits": [
+      {
+        "id": "Document-827646",
+        "score": 10.182509,
+        "source": {
+          "id": 827646,
+          "name": null,
+          "type": "Document",
+          "meeting_id": 71162,
+          "meeting_name": "Communities Committee - Thursday, 13th February, 2025 10.15 am",
+          "organisation_ids": [
+            227
+          ]
+        },
+        "highlight": {
+          "text": [
+            "APPENDIX 7\nPETITIONS RECEIVED AND SUMMARY OF RESPONSES\n  Petition D \u2013 Prevent the <strong>Closure</strong> of New Pitsligo <strong>Library</strong>\n    Petition E \u2013 Save Cairnbulg <strong>Library</strong> From <strong>Closure</strong>!"
+          ]
+        },
+        "record": {
+          "id": 827646,
+          "source_type": "Meeting",
+          "source_id": 71162,
+          "name": null,
+          "url": "https://aberdeenshire.moderngov.co.uk/documents/s29544/Appendix+7+-+Petitions+-+Cairnbulg+New+Pitsligo+Responses.pdf",
+          "kind": "unclassified",
+          "extract_status": "success",
+          "processing_status": "waiting",
+          "contains_agenda": false,
+          "contains_attendees": false,
+          "contains_decisions": false,
+          "is_minutes": false,
+          "is_media": false,
+          "created_at": "2025-07-10T21:45:30.734368"
+        }
+      },
+      {
+        "id": "Document-827427",
+        "score": 10.034819,
+        "source": {
+          "id": 827427,
+          "name": null,
+          "type": "Document",
+          "meeting_id": 71162,
+          "meeting_name": "Communities Committee - Thursday, 13th February, 2025 10.15 am",
+          "organisation_ids": [
+            227
+          ]
+        },
+        "highlight": {
+          "text": [
+            "of New Pitsligo <strong>Library</strong>\n     Petition E \u2013 Save Cairnbulg <strong>Library</strong> From <strong>Closure</strong>!"
+          ]
+        },
+        "record": {
+          "id": 827427,
+          "source_type": "Meeting",
+          "source_id": 71162,
+          "name": null,
+          "url": "https://aberdeenshire.moderngov.co.uk/documents/b24622/Supplementary+Agenda+Pack+2+13th-Feb-2025+10.15+Communities+Committee.pdf?T=9",
+          "kind": "unclassified",
+          "extract_status": "success",
+          "processing_status": "waiting",
+          "contains_agenda": false,
+          "contains_attendees": false,
+          "contains_decisions": false,
+          "is_minutes": false,
+          "is_media": false,
+          "created_at": "2025-07-10T21:38:00.296083"
+        }
+      }
+    ]
+  }
+}

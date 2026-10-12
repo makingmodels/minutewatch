@@ -1,0 +1,55 @@
+{
+  "request": {
+    "path": "/decisions",
+    "params": {
+      "per_page": 3
+    }
+  },
+  "status": 200,
+  "body": {
+    "items": [
+      {
+        "id": 84747,
+        "council_id": 301,
+        "url": "http://moderngov.torfaen.gov.uk/ieDecisionDetails.aspx?ID=7709",
+        "decision_maker": "Deputy Chief Executive (Resources)",
+        "outcome": "Recommendations Approved",
+        "is_key": true,
+        "is_callable_in": false,
+        "purpose": null,
+        "content": "",
+        "date": "2028-06-27",
+        "topline": "The Deputy Chief Executive (Resources) has decided to approve recommendations."
+      },
+      {
+        "id": 184269,
+        "council_id": 138,
+        "url": "https://rds.eppingforestdc.gov.uk/ieDecisionDetails.aspx?ID=4512",
+        "decision_maker": "Monitoring Officer",
+        "outcome": "Recommendations Approved",
+        "is_key": false,
+        "is_callable_in": false,
+        "purpose": "Include the relevant delegated authority (i.e.\r\nscheme of delegation reference or cabinet decision including date\r\nof meeting)\r\nTEST\r\n",
+        "content": "",
+        "date": "2026-12-25",
+        "topline": null
+      },
+      {
+        "id": 184267,
+        "council_id": 138,
+        "url": "https://rds.eppingforestdc.gov.uk/ieDecisionDetails.aspx?ID=4523",
+        "decision_maker": "Director - Regulatory Services",
+        "outcome": "Recommendations Approved",
+        "is_key": false,
+        "is_callable_in": false,
+        "purpose": "Include the relevant delegated authority (i.e.\r\nscheme of delegation reference or cabinet decision including date\r\nof meeting)\r\n62 - licensing\r\n",
+        "content": "",
+        "date": "2026-12-25",
+        "topline": null
+      }
+    ],
+    "page": 1,
+    "per_page": 3,
+    "total": 181356
+  }
+}

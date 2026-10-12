@@ -1,0 +1,113 @@
+{
+  "request": {
+    "path": "/documents",
+    "params": {
+      "meeting_id": 58403,
+      "per_page": 10
+    }
+  },
+  "status": 200,
+  "body": {
+    "items": [
+      {
+        "id": 674943,
+        "source_type": "Meeting",
+        "source_id": 58403,
+        "name": null,
+        "url": "https://moderngov.middlesbrough.gov.uk/documents/s31326/Appendix+2+-+Common+Allocation+Policy+Consultation+2024.pdf",
+        "kind": "unclassified",
+        "extract_status": "success",
+        "processing_status": "waiting",
+        "contains_agenda": false,
+        "contains_attendees": false,
+        "contains_decisions": false,
+        "is_minutes": false,
+        "is_media": false,
+        "created_at": "2025-06-27T17:00:00.145695"
+      },
+      {
+        "id": 674928,
+        "source_type": "Meeting",
+        "source_id": 58403,
+        "name": null,
+        "url": "https://moderngov.middlesbrough.gov.uk/documents/s31325/Appendix+1+-+Final+Draft+of+Proposed+Updated+Common+Allocation+Policy.pdf",
+        "kind": "unclassified",
+        "extract_status": "success",
+        "processing_status": "waiting",
+        "contains_agenda": false,
+        "contains_attendees": false,
+        "contains_decisions": false,
+        "is_minutes": false,
+        "is_media": false,
+        "created_at": "2025-06-27T16:59:16.600989"
+      },
+      {
+        "id": 674920,
+        "source_type": "Meeting",
+        "source_id": 58403,
+        "name": null,
+        "url": "https://moderngov.middlesbrough.gov.uk/documents/s31324/Report.pdf",
+        "kind": "unclassified",
+        "extract_status": "success",
+        "processing_status": "waiting",
+        "contains_agenda": false,
+        "contains_attendees": false,
+        "contains_decisions": false,
+        "is_minutes": false,
+        "is_media": false,
+        "created_at": "2025-06-27T16:59:03.357743"
+      },
+      {
+        "id": 674897,
+        "source_type": "Meeting",
+        "source_id": 58403,
+        "name": null,
+        "url": "https://moderngov.middlesbrough.gov.uk/documents/g10285/Public+reports+pack+09th-Jun-2025+10.00+Executive+Member+Adult+Social+Care.pdf?T=10",
+        "kind": "unclassified",
+        "extract_status": "success",
+        "processing_status": "waiting",
+        "contains_agenda": false,
+        "contains_attendees": false,
+        "contains_decisions": false,
+        "is_minutes": false,
+        "is_media": false,
+        "created_at": "2025-06-27T16:57:35.757258"
+      },
+      {
+        "id": 674893,
+        "source_type": "Meeting",
+        "source_id": 58403,
+        "name": null,
+        "url": "https://moderngov.middlesbrough.gov.uk/documents/g10285/Agenda+frontsheet+09th-Jun-2025+10.00+Executive+Member+Adult+Social+Care.pdf?T=0",
+        "kind": "unclassified",
+        "extract_status": "success",
+        "processing_status": "waiting",
+        "contains_agenda": false,
+        "contains_attendees": false,
+        "contains_decisions": false,
+        "is_minutes": false,
+        "is_media": false,
+        "created_at": "2025-06-27T16:57:26.602038"
+      },
+      {
+        "id": 674886,
+        "source_type": "Meeting",
+        "source_id": 58403,
+        "name": null,
+        "url": "https://moderngov.middlesbrough.gov.uk/documents/g10285/Printed+minutes+09th-Jun-2025+10.00+Executive+Member+Adult+Social+Care.pdf?T=1",
+        "kind": "unclassified",
+        "extract_status": "success",
+        "processing_status": "waiting",
+        "contains_agenda": false,
+        "contains_attendees": false,
+        "contains_decisions": false,
+        "is_minutes": false,
+        "is_media": false,
+        "created_at": "2025-06-27T16:56:54.628749"
+      }
+    ],
+    "page": 1,
+    "per_page": 10,
+    "total": 6
+  }
+}

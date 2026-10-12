@@ -1,0 +1,45 @@
+{
+  "request": {
+    "path": "/meetings",
+    "params": {
+      "date_from": "2026-08-20",
+      "date_to": "2026-08-20",
+      "per_page": 3
+    }
+  },
+  "status": 200,
+  "body": {
+    "items": [
+      {
+        "id": 132749,
+        "council_id": 151,
+        "committee_id": 18071,
+        "name": "EXHIBITION: Jack Sullivan: A Docklands Artist",
+        "url": "https://business.senedd.wales/mgCalendarEvent.aspx?Id=4294&RPID=1094910470",
+        "date": "2026-08-20T00:00:00",
+        "topline": null
+      },
+      {
+        "id": 132058,
+        "council_id": 151,
+        "committee_id": 18071,
+        "name": "EXHIBITION: Jack Sullivan: A Docklands Artist",
+        "url": "https://business.senedd.wales/mgCalendarEvent.aspx?Id=4294&RPID=1091353447",
+        "date": "2026-08-20T00:00:00",
+        "topline": null
+      },
+      {
+        "id": 131568,
+        "council_id": 151,
+        "committee_id": 18071,
+        "name": "EXHIBITION: Jack Sullivan: A Docklands Artist",
+        "url": "https://business.senedd.wales/mgCalendarEvent.aspx?Id=4294&RPID=1091339814",
+        "date": "2026-08-20T00:00:00",
+        "topline": null
+      }
+    ],
+    "page": 1,
+    "per_page": 3,
+    "total": 50
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "request": {
+    "path": "/people",
+    "params": {
+      "per_page": 3
+    }
+  },
+  "status": 200,
+  "body": {
+    "items": [
+      {
+        "id": 18169,
+        "council_id": 27,
+        "name": "803",
+        "role": "Councillor, Glenfield Faire",
+        "party": "Conservative",
+        "is_councillor": true,
+        "modern_gov_id": null,
+        "ocd_id": null
+      },
+      {
+        "id": 18928,
+        "council_id": 46,
+        "name": "Aaron Mansfield",
+        "role": "Councillor, Heath",
+        "party": "Labour",
+        "is_councillor": true,
+        "modern_gov_id": null,
+        "ocd_id": null
+      },
+      {
+        "id": 5474,
+        "council_id": 100,
+        "name": "Aaron Thurstance",
+        "role": "Councillor, Manor",
+        "party": "Labour",
+        "is_councillor": true,
+        "modern_gov_id": null,
+        "ocd_id": null
+      }
+    ],
+    "page": 1,
+    "per_page": 3,
+    "total": 19745
+  }
+}

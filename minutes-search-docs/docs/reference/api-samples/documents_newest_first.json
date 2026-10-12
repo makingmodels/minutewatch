@@ -1,0 +1,64 @@
+{
+  "request": {
+    "path": "/documents",
+    "params": {
+      "per_page": 3
+    }
+  },
+  "status": 200,
+  "body": {
+    "items": [
+      {
+        "id": 1665483,
+        "source_type": "Meeting",
+        "source_id": 133283,
+        "name": null,
+        "url": "https://moderngov.rotherham.gov.uk/documents/g16516/Printed+minutes+Monday+14-Sep-2026+10.00+Cabinet.pdf?T=1",
+        "kind": "unclassified",
+        "extract_status": "pending",
+        "processing_status": "waiting",
+        "contains_agenda": false,
+        "contains_attendees": false,
+        "contains_decisions": false,
+        "is_minutes": true,
+        "is_media": false,
+        "created_at": "2026-10-11T11:08:23.426676"
+      },
+      {
+        "id": 1665482,
+        "source_type": "Meeting",
+        "source_id": 132902,
+        "name": null,
+        "url": "https://democracy.breckland.gov.uk/documents/g5409/Printed+minutes+07th-Sep-2026+10.00+Breckland+Area+Museums+Committee.pdf?T=1",
+        "kind": "unclassified",
+        "extract_status": "pending",
+        "processing_status": "waiting",
+        "contains_agenda": false,
+        "contains_attendees": false,
+        "contains_decisions": false,
+        "is_minutes": true,
+        "is_media": false,
+        "created_at": "2026-10-08T22:08:08.925531"
+      },
+      {
+        "id": 1665481,
+        "source_type": "Meeting",
+        "source_id": 133508,
+        "name": null,
+        "url": "https://minutes.belfastcity.gov.uk/documents/g12453/Agenda+frontsheet+22nd-Sep-2026+17.15+Standards+and+Business+Committee.pdf?T=0",
+        "kind": "unclassified",
+        "extract_status": "pending",
+        "processing_status": "waiting",
+        "contains_agenda": false,
+        "contains_attendees": false,
+        "contains_decisions": false,
+        "is_minutes": false,
+        "is_media": false,
+        "created_at": "2026-10-07T22:55:05.253966"
+      }
+    ],
+    "page": 1,
+    "per_page": 3,
+    "total": 1661155
+  }
+}

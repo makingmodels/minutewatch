@@ -1,0 +1,43 @@
+{
+  "request": {
+    "path": "/councils",
+    "params": {
+      "per_page": 3
+    }
+  },
+  "status": 200,
+  "body": {
+    "items": [
+      {
+        "id": 226,
+        "name": "Aberdeen City",
+        "external_id": "295",
+        "majority_party": "NOC",
+        "council_type": 0,
+        "council_type_label": "modern_gov",
+        "base_scrape_url": "https://committees.aberdeencity.gov.uk/mgCalendarMonthView.aspx"
+      },
+      {
+        "id": 227,
+        "name": "Aberdeenshire",
+        "external_id": "296",
+        "majority_party": "NOC",
+        "council_type": 0,
+        "council_type_label": "modern_gov",
+        "base_scrape_url": "https://aberdeenshire.moderngov.co.uk/mgCalendarMonthView.aspx"
+      },
+      {
+        "id": 123,
+        "name": "Adur",
+        "external_id": "165",
+        "majority_party": "CON",
+        "council_type": 0,
+        "council_type_label": "modern_gov",
+        "base_scrape_url": "https://democracy.adur-worthing.gov.uk/mgCalendarMonthView.aspx"
+      }
+    ],
+    "page": 1,
+    "per_page": 3,
+    "total": 320
+  }
+}
